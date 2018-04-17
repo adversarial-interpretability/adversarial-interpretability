@@ -1,4 +1,4 @@
-# Adversarial Examples for Neural Network Interpretbility
+# Adversarial Examples for Neural Network Interpretability
 
 ## The large scale results of attack methods against four famous feature-attribution methods
 ![alt text](https://github.com/adversarial-interpretability/adversarial-interpretability/blob/master/SaliencyMethodsComparison.png)
